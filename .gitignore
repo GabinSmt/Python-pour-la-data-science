@@ -1,0 +1,7 @@
+
+#fichier de config
+config.config
+#repertoirre 
+venv/
+#fichiers de données 
+*.csv 
